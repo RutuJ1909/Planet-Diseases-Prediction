@@ -1,6 +1,6 @@
 # Plant-Diseases-Prediction
 
-Plant diseases prediction is prection in which we can predict the disease of leaves from their image. 
+Plant diseases prediction is prediction in which we can predict the disease of leaves from their image. 
 
 In this project we will create a Convolutional Neural Network which will be able to predict whether a plant is suffering from a disease. We will use different layers and other hyperparameters for building, training and testing this classifictaion model.We will be using tensorflow and keras for this project.
 
